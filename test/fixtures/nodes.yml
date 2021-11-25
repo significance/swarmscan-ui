@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  overlay: MyString
+  error: MyString
+  fullNode: false
+  country: MyString
+  lat: 1.5
+  long: 1.5
+  time: 2021-11-05 17:35:29
+  underlays: 1
+  last_underlay: MyString
+
+two:
+  overlay: MyString
+  error: MyString
+  fullNode: false
+  country: MyString
+  lat: 1.5
+  long: 1.5
+  time: 2021-11-05 17:35:29
+  underlays: 1
+  last_underlay: MyString
